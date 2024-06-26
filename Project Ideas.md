@@ -1,19 +1,20 @@
 # Brainstorming
-## Supplies (I won't use all of them (probably)):
+## Supplies (I won't use all of them)
 * Anki Vector
 * Small Arduino Display
 * Raspberry Pi (3B)
-* Wardriving Data
+* WarDriving Data
 * Robotics Scouting App
 * 3D Printer
 * Powerful(-ish) Gaming Computer
 * DJI Mini 2
 * Arduino Uno
 * Arduino Temp & Humidity Sensor
-* Messed up laptop that can be used as a server
+* "Laptop" that can be Used as a Server
+* Stepper Motors from Old 3D Printer
 ## Project Ideas
-* Raspberry Pi & Display: Run LLM on Pi to slowly generate inspirational messages to show on display?
-	* Simple (too simple?)
+* Raspberry Pi & Display: Run LLM on Pi to slowly generate inspirational messages (or something) to show on display?
+	* Simple (too simple)
 	* Don't need to buy supplies
 	* Issue: it'll definitely be too simple
 * Use Pi to run some sort of AI to control vector
@@ -23,3 +24,11 @@
 * Use Pi with temp & humidity sensor to run IoT server, use Arduino and little display to show data?
 	* The PI part would be fun (if Arduino Cloud supports Raspberry Pi)
 	* Getting data from some random computer (another Pi maybe? I'd have to buy one) to Arduino would be difficult
+* ArduPilot Autonomous Plane
+  * Very cool (I've wanted to do it for a very long time)
+  * Very expensive
+    * Flight controller alone costs >$150
+* Frontend (and backend?) update for robot scouter
+	* I have tried before and couldn't get rid of errors
+    * I don't know how to do Android code (not well at least)
+* 
