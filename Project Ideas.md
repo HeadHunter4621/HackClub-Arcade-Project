@@ -31,4 +31,4 @@
 * Frontend (and backend?) update for robot scouter
 	* I have tried before and couldn't get rid of errors
     * I don't know how to do Android code (not well at least)
-* 
+* ✨Use Anki Vector to make custom software
