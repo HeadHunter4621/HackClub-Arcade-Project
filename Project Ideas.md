@@ -1,6 +1,5 @@
 # Brainstorming
 ## Supplies (I won't use all of them)
-* Anki Vector
 * Small Arduino Display
 * Raspberry Pi (3B)
 * WarDriving Data
@@ -8,6 +7,7 @@
 * 3D Printer
 * Powerful(-ish) Gaming Computer
 * DJI Mini 2
+* ~~Anki Vector~~
 * Arduino Uno
 * Arduino Temp & Humidity Sensor
 * "Laptop" that can be Used as a Server
@@ -31,4 +31,5 @@
 * Frontend (and backend?) update for robot scouter
 	* I have tried before and couldn't get rid of errors
     * I don't know how to do Android code (not well at least)
-* ✨Use Anki Vector to make custom software (use SDK instead of WirePod)
+* Use Anki Vector to make custom software (use SDK instead of WirePod)
+ 	* Company is dead, API information is dead, evething about this project is dead!
